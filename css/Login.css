@@ -1,0 +1,154 @@
+	@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@600&family=Zilla+Slab&display=swap');
+	*{
+		margin: 0;
+		padding: 0;
+		font-family: Potta;
+	}
+	.container{
+		background-image: url();
+	}
+	.signup{
+		margin-top: -550px;
+		margin-left: 800px; 
+		width: 340px;
+		height: 550px;
+		border:4px;
+		border-radius: 50px;
+		box-shadow: 25px 40px 60px  rgba(105, 105, 105, 0.60);
+		position: static;
+	}
+	.workspace{
+		width: 250px;
+		height: 250px;
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+	}
+	.input{
+		border-radius: 5px;
+  		padding: 15px;
+  		width: 230px;
+  		height: 4px;
+  		margin-top:15px;
+  		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		font-size: 16px;
+	}
+	.btn{
+		color: white;
+		background-color: #388fff;
+		border-radius: 25px;
+		padding: 15px ;
+		width: 230px;
+		height: 4px;
+		cursor: pointer;
+		margin: 7px 40px;
+		font-size: 15px;
+		font-weight: bold;
+		text-decoration:none;
+		display: inline-block;
+		text-align: center;
+	}
+	.img{
+		width: 700px;
+		height: 700px;
+		margin: -190px 60px;
+	}
+	.title{
+		margin: 60px 180px;
+		font-size: 32px;
+	}
+
+	.images{
+    margin-top: 15px;
+    margin-left: 190px;
+ 	 }
+
+ 	 .img1{	
+		padding: 10px; 
+		transition: all .2s ease-in-out;
+	}
+	.img1:hover{ 
+		transform: scale(1.1);
+		box-shadow: 4px 2px 50px  rgba(22, 56, 100, 0.4); 
+		border-radius: 23px;
+	}
+
+	.img2{
+		padding: 9px;
+		transition: all .2s ease-in-out;}	
+	.img2:hover { 
+		transform: scale(1.1);
+		box-shadow: 4px 2px 50px  rgba(22, 56, 100, 0.4);
+		border-radius: 23px;
+		}	
+	.img3{
+		padding: 19px;
+		transition: all .2s ease-in-out;} 
+	.img3:hover { 
+		transform: scale(1.1);
+		box-shadow: 4px 2px 50px  rgba(22, 56, 100, 0.4);
+		border-radius: 23px;
+	}	
+	.img4{
+		padding: 5px;
+		transition: all .2s ease-in-out;
+	} 
+	.img4:hover{ 
+		transform: scale(1.1);
+		box-shadow: 4px 2px 50px  rgba(22, 56, 100, 0.4);
+		border-radius: 23px; 	}
+		
+	.desc{
+		cursor: pointer;
+		font-family: Zilla;
+	}
+	.title1{
+		margin-left: 207px;
+	}
+	.title2{
+		margin-top: -90px;
+		margin-left: 432px;
+	}
+	.title3{
+		margin-top: -90px;
+		margin-left: 664px;
+	}
+	.title4{
+		margin-top: -90px;
+		margin-left: 930px;
+	}
+	.img5{
+		width: 45%;
+		margin: 85px 70px;
+	}
+	.imags{
+		margin-left: 690px;
+		margin-top: -480px;
+
+	}
+
+	.img6{
+		width: 17%;
+		padding: 2px;
+
+	}
+	.img7{
+		width: 17%;
+		padding: 2px;
+
+	}
+	.img8{
+		width: 17%;
+		padding: 2px;
+	}
+	.about a{
+		margin-top:-97px;
+		margin-left: 120px;
+		position: absolute;
+		font-size: 15px;
+		color: black;
+		margin-right: 50px;
+	}

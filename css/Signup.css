@@ -1,0 +1,61 @@
+	@import url('https://fonts.googleapis.com/css2?family=Potta+One&display=swap');
+	*{
+		margin: 0;
+		padding: 0;
+		font-family: Potta;
+	}
+	.container{
+		background-image: url();
+	}
+	.signup{
+		margin-top: -550px;
+		margin-left: 800px; 
+		width: 340px;
+		height: 550px;
+		border:4px;
+		border-radius: 50px;
+		box-shadow: 25px 40px 60px  rgba(105, 105, 105, 0.60);
+		position: static;
+	}
+	.pair{
+		width: 250px;
+		height: 250px;
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+	}
+	.input{
+		border-radius: 5px;
+  		padding: 15px;
+  		width: 230px;
+  		height: 4px;
+  		margin-top:15px;
+  		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
+  		font-size: 16px;
+	}
+	.btn{
+		color: white;
+		background-color: #388fff;
+		border-radius: 25px;
+		padding: 15px ;
+		width: 230px;
+		height: 4px;
+		cursor: pointer;
+		margin: 7px 40px;
+		font-size: 15px;
+		font-weight: bold;
+		text-decoration:none;
+		display: inline-block;
+		text-align: center;
+	}
+	.img{
+		width: 700px;
+		height: 700px;
+		margin: -190px 60px;
+	}
+	.title{
+		margin: 60px 180px;
+		font-size: 32px;
+	}
